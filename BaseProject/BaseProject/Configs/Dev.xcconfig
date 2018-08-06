@@ -1,0 +1,9 @@
+//
+//  Dev.xcconfig
+//  BaseProject
+//
+//  Created by Anh Nguyen on 8/5/18.
+//  Copyright © 2018 Anh Nguyen. All rights reserved.
+//
+server_url          = www.google.com/dev
+protocol            = https
